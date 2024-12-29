@@ -5,7 +5,7 @@
     src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611bhbd2kzp8nd0al76xag277wze31wr3fw6b02o35r&ep=v1_gifs_search&rid=giphy.gif&ct=g"
     width="250" height="150" />
 
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Kowalski25)](https://git.io/streak-stats)
 </div>
 
 <!--
