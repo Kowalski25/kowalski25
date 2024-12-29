@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div id="streak-container" align="center">
+<div id="header" align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Kowalski25)](https://git.io/streak-stats)
 </div>
 
