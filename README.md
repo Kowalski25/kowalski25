@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<div id="header" align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Kowalski25)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kowalski25)](https://git.io/streak-stats)
 
 <!--
 **Kowalski25/kowalski25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
