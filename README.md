@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<div align="center">
-  <a href="#">
-    <img src="https://streak-stats.demolab.com/?user=Kowalski25" alt="GitHub Streak" />
-  </a>
-</div>
-
 <!--
 **Kowalski25/kowalski25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
